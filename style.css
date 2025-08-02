@@ -1,0 +1,92 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 15% 25%;
+}
+h1 {
+    color: white;
+    font-family: "Horizon"
+}
+.subheading {
+    color: white;
+    font-family: "Arial narrow", sans-serif; 
+    font-size: large;
+}
+h2 {
+    color: black;
+    font-family: "Arial narrow", sans-serif; 
+}
+h3 {
+    font-size: small;
+    font-family: "Arial narrow", sans-serif;
+}
+tagline {
+    font-family: "Arial narrow", sans-serif;
+}
+body {
+    font-family: "Helvetica Neue", "Helvetica", sans-serif;
+    margin: 5%;
+}
+br {
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.infobar {
+    background-color: #c2ecdd;
+    padding: 5% 10%;
+    margin-top: 5%;
+}
+.infobar-subheading {
+    font-size: medium;
+}
+.attraction {
+    background-color: lightpink;
+    padding: 5%;
+    margin: 10%;
+}
+.attraction h3 {
+    font-size: large;
+    text-align: center;
+    font-family: "Oswald SemiBold", sans-serif;
+}
+.attraction img {
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    display: block;
+    border-radius: 2%;
+}
+.location {
+    text-align: center;
+    font-size: medium;
+    font-family: "Arial Narrow", "Helvetica", sans-serif;
+}
+.attraction p{
+    text-align: left;
+    font-size: small;
+}
+.quiz {
+    font-size: small;
+    padding-bottom: 2%;
+}
+.quiz h4 {
+    font-size: medium;
+}
+.quiz ol {
+    list-style:lower-alpha;
+}
+.citations {
+    font-size: smaller;
+    color: slategray;
+    padding-top: 2%
+}
+footer {
+    font-size: smaller;
+    font-family: "Arial Narrow", sans-serif;
+    color: hotpink;
+    text-align: center;
+}
