@@ -5,16 +5,16 @@ header {
 }
 h1 {
     color: white;
-    font-family: "Horizon"
+    font-family: "Horizon";
 }
 .subheading {
     color: white;
-    font-family: "Arial narrow", sans-serif; 
+    font-family: "Arial narrow", sans-serif;
     font-size: large;
 }
 h2 {
     color: black;
-    font-family: "Arial narrow", sans-serif; 
+    font-family: "Arial narrow", sans-serif;
 }
 h3 {
     font-size: small;
@@ -26,12 +26,6 @@ tagline {
 body {
     font-family: "Helvetica Neue", "Helvetica", sans-serif;
     margin: 5%;
-}
-br {
-    display: block;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    line-height: 30px;
 }
 .infobar {
     background-color: #c2ecdd;
@@ -65,7 +59,7 @@ br {
     font-size: medium;
     font-family: "Arial Narrow", "Helvetica", sans-serif;
 }
-.attraction p{
+.attraction p {
     text-align: left;
     font-size: small;
 }
@@ -77,12 +71,12 @@ br {
     font-size: medium;
 }
 .quiz ol {
-    list-style:lower-alpha;
+    list-style: lower-alpha;
 }
 .citations {
     font-size: smaller;
     color: slategray;
-    padding-top: 2%
+    padding-top: 2%;
 }
 footer {
     font-size: smaller;
