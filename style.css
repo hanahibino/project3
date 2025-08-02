@@ -104,11 +104,21 @@ p {
 .quiz ol {
     list-style: lower-alpha;
 }
+.outro {
+    padding: 2% 1%;
+    line-height: 1.5;
+}
+.outro img.float-left{
+    float: left;
+    width: 200px;
+    height: auto;
+    margin: 0 1.5em 0 0;
+}
 .citations {
     font-size: smaller;
     color: slategray;
     padding-top: 2%;
-    text-align: left
+    text-align: left;
 }
 footer {
     font-size: smaller;
