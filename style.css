@@ -31,7 +31,6 @@ h3 {
     font-family: "Oswald", sans-serif;
     font-weight: 900;
     text-align: center;
-    
 }
 .tagline {
     font-family: "Arial narrow", "Roboto Condensed", sans-serif;
@@ -63,7 +62,7 @@ p {
 .list_attractions {
     margin-bottom: 4%;
 }
-.list_attractions h2{
+.list_attractions h2 {
     text-align: center;
 }
 .attraction {
@@ -95,7 +94,7 @@ p {
     padding: 2% 6%;
     text-align: left;
     border-radius: 12px;
-    background-color: #529ECC;
+    background-color: #529ecc;
 }
 .quiz h4 {
     font-size: medium;
@@ -108,7 +107,7 @@ p {
     padding: 2% 1%;
     line-height: 1.5;
 }
-.outro img.float-left{
+.outro img.float-left {
     float: left;
     width: 50%;
     max-width: 200px;
